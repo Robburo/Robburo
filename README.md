@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Robin
+I'm an IT consultant and full-stack developer from Norway, specializing in Java Spring Boot and React.
 
-<!--
-**Robburo/Robburo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+- 💻 Backend: Java, Spring Boot, PostgreSQL
+- 🌐 Frontend: React, Next.js
+- ☁️ Cloud: AWS, Azure
+- 🔐 Auth: JWT, OAuth2, Spring Security
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
+- Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Robburo's GitHub stats](https://github-readme-stats.vercel.app/api?username=robburo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robburo&layout=compact&theme=dark)
+
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/robin-burø-6b622415b/)
